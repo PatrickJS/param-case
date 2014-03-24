@@ -1,0 +1,32 @@
+{
+  "name": "param-case",
+  "version": "0.0.0",
+  "description": "Param case a string",
+  "main": "param-case.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/param-case.git"
+  },
+  "keywords": [
+    "param",
+    "case",
+    "dash",
+    "hyphen"
+  ],
+  "author": "Blake Embrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/param-case/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/param-case",
+  "devDependencies": {
+    "istanbul": "^0.2.6",
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "sentence-case": "0.0.1"
+  }
+}
