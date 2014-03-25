@@ -1,6 +1,6 @@
 {
   "name": "param-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Param case a string",
   "main": "param-case.js",
   "scripts": {
